@@ -1,0 +1,29 @@
+body{
+	background-color: rgb(196, 255, 137);
+}
+#app{
+	position: relative;
+}
+.content{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.title{
+	background-color: rgba(81, 251, 183, 0.785);
+	text-align: center;
+	padding: 15px 0;
+	max-width: 100%;
+}
+.subtitle{
+	padding: 10px 0;
+	text-align: center;
+}
+.flexClass{
+	text-align: center;
+	padding: 20px 0;
+}
+.imageClass{
+	object-fit: cover;
+}
